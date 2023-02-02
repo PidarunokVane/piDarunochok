@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(208, 255, 0);
+}
+.home{
+    height: 210px;
+    background-color: rgb(247, 105, 5);
+    display: flex;
+    justify-content: center;
+}
+h1{
+    color: azure;
+    margin-top: 32px;
+    font-size: 100px;
+}
+section{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+section div{
+    height: 500px;
+    width: 49%;
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+a{
+    text-decoration: none;
+    color: white;
+    font-size: 100px;
+}
